@@ -1,0 +1,58 @@
+{
+  "signature": "47cBr4ysNHhm8WPsTH1x2A8oNeQcTZjFekWX9tPnWDjfASYg627xv937kc1UqicCuDZ2cCLxvgWTN3DHGwdaEc3L",
+  "mint": "An8LsLcNiY3mWripTXazvpfaff5CPXmmzvoSimNopump",
+  "traderPublicKey": "2evdUCLrWuf7XFtjDokycCohhVPVXdk9SFnJGy3vqd9G",
+  "txType": "create",
+  "initialBuy": 37951768.416766,
+  "solAmount": 1.099999998,
+  "bondingCurveKey": "BtUokyggDMfSBw9UoRDj3S5MTRQbN9ELaL6eUQbs3z1c",
+  "vTokensInBondingCurve": 1035048231.583234,
+  "vSolInBondingCurve": 31.099999997837227,
+  "marketCapSol": 30.046908973764385,
+  "name": "LUNA-AI",
+  "symbol": "LUNA-AI",
+  "uri": "https://ipfs.io/ipfs/QmXpqVPiqPNKH6by6d5L8hiHMtgwepchTNdD4oP36BV9Uh",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:39:08.054Z",
+  "detail": {
+    "name": "LUNA-AI",
+    "symbol": "LUNA-AI",
+    "description": "\"Empowering the future of fun and finance with Luna-Ai Memecoin.\"",
+    "image": "https://ipfs.io/ipfs/QmVZ1J8cy6q5SqoV52bLZbtiBJXP2Y9cyBGcVGLwKEAPLk",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/ProjectLuna_Ai",
+    "website": "https://luna-ai.info/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793548504,
+    "version": 0
+  },
+  "$loki": 76,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The project focuses on AI automation to enhance business efficiency, showcasing innovative solutions like customizable chatbots. It emphasizes seamless user experiences and offers diverse pricing plans for scalability.\",\"larp_evaluation\":4,\"uniqueness_evaluation\":8,\"idea_evaluation\":\"The idea has real merit, with a compelling focus on customer satisfaction and the potential for significant impact in the market.\"}",
+  "stats": {
+    "startTime": 1736793548804,
+    "endTime": 1736793567028,
+    "duration": 18.224,
+    "llmUsageStats": {
+      "inputTokens": 5323,
+      "outputTokens": 429,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

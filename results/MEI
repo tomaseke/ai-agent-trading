@@ -1,0 +1,59 @@
+{
+  "signature": "s3bYcnS6TCUbgLgX45TH9uFEjhy6ehDyJvxVk216V929sxsYm9P4aHhPQSdLuLA3L2MTuKzg2CsFXw9YrWPj1ho",
+  "mint": "7npnGQZgwAvS3DBxwbSfQ67TWo63i5EQmajSVWMcpump",
+  "traderPublicKey": "Dj59ZbLh1eSshEL3BRxufPWrWh9fcBY44RDxTfHSjfyR",
+  "txType": "create",
+  "initialBuy": 34612903.225806,
+  "solAmount": 1,
+  "bondingCurveKey": "9r7RrdT19tMUDQGZZyJ4S7iKwVUYsyr72yxKTae5xcro",
+  "vTokensInBondingCurve": 1038387096.774194,
+  "vSolInBondingCurve": 30.999999999999986,
+  "marketCapSol": 29.853991922957412,
+  "name": "MEI",
+  "symbol": "MEI",
+  "uri": "https://ipfs.io/ipfs/QmZ1XHvQfEzw42bF23xhzZ6LSHqmo82Le8Tfastw1Xm7tz",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:31:30.155Z",
+  "detail": {
+    "name": "MEI",
+    "symbol": "MEI",
+    "description": "MEI girl located in Japanese cherry blossom forest on a rainy day\r\n",
+    "image": "https://ipfs.io/ipfs/Qmf4hxuk5Cx4oV94eEox1PfkZ22qBMSLyT4n7M4fVCwRxr",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/MEI_SOL_COIN",
+    "telegram": "https://t.me/MEI_SOL_COIN",
+    "website": "https://animesol.xyz/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793090558,
+    "version": 0
+  },
+  "$loki": 27,
+  "status": "FINISHED",
+  "result": "5",
+  "stats": {
+    "startTime": 1736793093669,
+    "endTime": 1736793110246,
+    "duration": 16.577,
+    "llmUsageStats": {
+      "inputTokens": 6401,
+      "outputTokens": 418,
+      "callsCount": 7,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 7,
+    "costDetails": {
+      "costInputTokens": 0.001,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0012
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

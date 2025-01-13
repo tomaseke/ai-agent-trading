@@ -1,0 +1,58 @@
+{
+  "signature": "5ZH1md48ABXknLhzU9B9FM1LfRN1qQJKvugqFgq4Y4m73zgbqTogKChcoKqr95sbiXmohyUVNUPFyP95CvHVKRwT",
+  "mint": "GQKjcHmtxFZtwg84VKcaBhdPhXNXgY1cK2o6xEmapump",
+  "traderPublicKey": "GUxJ8msyJFRauAU3Ew1cBsQzZhRHEVYTrJCiEeode5zF",
+  "txType": "create",
+  "initialBuy": 27870129.870129,
+  "solAmount": 0.8,
+  "bondingCurveKey": "Fbq3uKRuTbeng8KGNap9AunfAuHCaNVwAoMPdrCVngwX",
+  "vTokensInBondingCurve": 1045129870.129871,
+  "vSolInBondingCurve": 30.799999999999972,
+  "marketCapSol": 29.470021745883763,
+  "name": "Sleepless AI",
+  "symbol": "SLEEPLESS",
+  "uri": "https://ipfs.io/ipfs/QmXbyDqheRuVNEy57HsUtWQp29obnwVbePmRy2kJeCFTma",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:31:31.572Z",
+  "detail": {
+    "name": "Sleepless AI",
+    "symbol": "SLEEPLESS",
+    "description": "FOR THE BEST AI COMPANION GAMES | Focused on AI and web3.",
+    "image": "https://ipfs.io/ipfs/QmZ6phK97eTkHNJSFwHSY1X3KSvnGM7V6LzSARqZUPHNSB",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/SleeplessAI_Lab",
+    "website": "https://t.co/ab5vHaNAB8"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793092503,
+    "version": 0
+  },
+  "$loki": 31,
+  "status": "FINISHED",
+  "result": "From 1 to 10, the project is likely a scam with a score of 9 due to the lack of specific information and uniqueness assessment received as 1.",
+  "stats": {
+    "startTime": 1736793092828,
+    "endTime": 1736793112745,
+    "duration": 19.917,
+    "llmUsageStats": {
+      "inputTokens": 9210,
+      "outputTokens": 491,
+      "callsCount": 10,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 10,
+    "costDetails": {
+      "costInputTokens": 0.0014,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0017
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

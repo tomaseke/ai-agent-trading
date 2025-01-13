@@ -1,0 +1,59 @@
+{
+  "signature": "2qwn3RZZMZfDjH3UnZrFTGRmqwKag3H1kS47uBQmeicy2Vre9EBMCJGXuo8PRqz1rdN4MgG5uhoTfKPQBk31kuP3",
+  "mint": "HvYc9gN6AGW2ZAKdy7exReNu9knX9v1ntiZ7FeX9pump",
+  "traderPublicKey": "Ckjqab2tfehhpuAxRewTfzmLoKYdRE2cUp1BeLijMTG7",
+  "txType": "create",
+  "initialBuy": 34947758.787487,
+  "solAmount": 1.01,
+  "bondingCurveKey": "7JdZQqK8ZoA6xeh8R1RsJ8ASEc1nWQt7hxpE23pPST6f",
+  "vTokensInBondingCurve": 1038052241.212513,
+  "vSolInBondingCurve": 31.009999999999973,
+  "marketCapSol": 29.873255669462512,
+  "name": "Euphoria",
+  "symbol": "Eupho",
+  "uri": "https://ipfs.io/ipfs/Qmb5RibRsasFVakt8pXsRzGjUkRRnkRmyEtBCpDtgWpjGE",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:46.612Z",
+  "detail": {
+    "name": "Euphoria",
+    "symbol": "Eupho",
+    "description": "Where trading becomes an experience. Don't just believe in something - Feel something ",
+    "image": "https://ipfs.io/ipfs/QmNU2UjBwWBd2qE288x7Sk69sw9tNGfp95g657XTQyTior",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/Euphoria_fi",
+    "telegram": "https://t.me/euphoria_fi",
+    "website": "https://euphoria.finance/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793706819,
+    "version": 0
+  },
+  "$loki": 115,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"Euphoria is an innovative crypto project focused on liquidity aggregation for options and perpetuals trading, utilizing embedded oracles. The project aims to simplify on-chain trading and enhance user engagement, backed by a credible team and positive endorsements from the crypto community.\",\"larpEvaluation\":2,\"uniquenessEvaluation\":9,\"ideaEvaluation\":\"Euphoria's concept presents a strong merit due to its innovative approach to liquidity aggregation and the backing of a competent team. However, the low larp score indicates potential concerns regarding transparency or fulfillment of promises, suggesting careful consideration before investment.\"}",
+  "stats": {
+    "startTime": 1736793707945,
+    "endTime": 1736793725267,
+    "duration": 17.322,
+    "llmUsageStats": {
+      "inputTokens": 5355,
+      "outputTokens": 487,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

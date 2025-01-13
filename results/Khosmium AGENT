@@ -1,0 +1,59 @@
+{
+  "signature": "2jvi7LHMEJWcMZeCdCum12RpHJsWaNRhnPuDUnEYjZZ6znoRgJ6KtkW4Zt8Shgk1HUuaq58Tk6ZRfiGWVN8ML9gz",
+  "mint": "6KGWBLLfJYYWYAV3GLya22zkHy2cB5yMVrnLJ1Jepump",
+  "traderPublicKey": "5DYdWVsGUH2vt6yVKU99gosY8ce5yeAazUDBGcidtca1",
+  "txType": "create",
+  "initialBuy": 88596330.275229,
+  "solAmount": 2.7,
+  "bondingCurveKey": "HCXqSsZGNe3w3KXw9ngT3hpKc3HSrQ9M7Mj1Sd4y9Zok",
+  "vTokensInBondingCurve": 984403669.724771,
+  "vSolInBondingCurve": 32.69999999999999,
+  "marketCapSol": 33.21808014911461,
+  "name": "Khosmium AGENT",
+  "symbol": "KHOSMIUM",
+  "uri": "https://ipfs.io/ipfs/QmXuQPJ5deYsUHRF51NJ2n5Yv3BSBq3QTnBdSNrzJ2MyQG",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:31:21.839Z",
+  "detail": {
+    "name": "Khosmium AGENT",
+    "symbol": "KHOSMIUM",
+    "description": "Khosmium 2048 is LIVE 👉 Airdrop campaign\r\nFree to Play, MOBA Web3 Game Powered\r\nHeroes rise, Khosmians unite!",
+    "image": "https://ipfs.io/ipfs/QmayKuJe98SxEQwY6iXPSexSybcuGCHcrsLW1STvdWm3mY",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/khosmium",
+    "telegram": "https://t.me/KhosmiumOfficial",
+    "website": "https://khosmium.com/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793082387,
+    "version": 0
+  },
+  "$loki": 16,
+  "status": "FINISHED",
+  "result": "7",
+  "stats": {
+    "startTime": 1736793082982,
+    "endTime": 1736793099854,
+    "duration": 16.872,
+    "llmUsageStats": {
+      "inputTokens": 5265,
+      "outputTokens": 318,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0002,
+      "totalCost": 0.001
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

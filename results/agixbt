@@ -1,0 +1,59 @@
+{
+  "signature": "2xpyNrgYMs5FivAFeAi2AEB2Bv8C7HfgtJ1Mf5HZxRKaXCLb4MmtXgxb6JXGxqebQMciKaJbFT2fdLdQvpJWLwSR",
+  "mint": "ABTxHEZR8JKxi4EPx4UuELL99EPokd8roXtdztD5pump",
+  "traderPublicKey": "BEFbxMtMusULhvWfz72SMnwfRoNACfGM9wHhUiwzHPVc",
+  "txType": "create",
+  "initialBuy": 67062499.999999,
+  "solAmount": 2,
+  "bondingCurveKey": "HkbQWyrWMepVhdezMx8izPLJreMo5dWTPywpbVqGDpGa",
+  "vTokensInBondingCurve": 1005937500.000001,
+  "vSolInBondingCurve": 31.999999999999968,
+  "marketCapSol": 31.811121466293816,
+  "name": "agixbt",
+  "symbol": "AGIXBT",
+  "uri": "https://ipfs.io/ipfs/QmajUSd3tf6vEWxYi6BXw6Bgfg4tvG4Z1EvzCMUCpUBk8Y",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:57.502Z",
+  "detail": {
+    "name": "agixbt",
+    "symbol": "AGIXBT",
+    "description": "The first autonomous AI corporation - a self-orchestrating hive of agentic entities.",
+    "image": "https://ipfs.io/ipfs/QmRpziqxTAEkG2tdkUL6TxsqMEfUouzGvK99zmro9Yh9jU",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/agixbt",
+    "telegram": "https://t.me/agixbt",
+    "website": "https://agixbt.com/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793718003,
+    "version": 0
+  },
+  "$loki": 125,
+  "status": "FINISHED",
+  "result": "{\"analysisSummary\":\"The idea under consideration is perceived to have a very high potential merit/use case based on its evaluation score. However, the lack of specific information regarding the crypto project limits a full assessment of its legitimacy.\",\"larpEvaluation\":\"The initiative has a low likelihood of being a scam given the high merit/use case score.\",\"uniquenessEvaluation\":\"The idea is categorized as relatively unique, indicated by a score of 1.\",\"ideaEvaluation\":\"Overall, the idea is framed as beneficial with a strong use case, but further detailed analysis is required to validate authenticity.\"}",
+  "stats": {
+    "startTime": 1736793718375,
+    "endTime": 1736793740564,
+    "duration": 22.189,
+    "llmUsageStats": {
+      "inputTokens": 8569,
+      "outputTokens": 584,
+      "callsCount": 10,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 10,
+    "costDetails": {
+      "costInputTokens": 0.0013,
+      "costOutputTokens": 0.0004,
+      "totalCost": 0.0016
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

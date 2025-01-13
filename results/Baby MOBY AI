@@ -1,0 +1,58 @@
+{
+  "signature": "37hJH3NtEsw3XxUyXrMnceysZEq6EtJrsiTFAV4PwH2W8zD3HRfPGxbrfr57BbRq4cAit5x2X3NdPpcX2y2Xk5jy",
+  "mint": "GYv6jg8oiv6brLRG3ALrxwjN3mN5f8nfVbH2CK3Tpump",
+  "traderPublicKey": "3YwmdR4SAoZBPEMe8X8QW936PH18Xk8PeTvVSvRbSYp7",
+  "txType": "create",
+  "initialBuy": 14118421.052631,
+  "solAmount": 0.4,
+  "bondingCurveKey": "4NmG8ysvjQ58GQfJ4ffdjpDEXHbUcwGQnKt7DFeNk28d",
+  "vTokensInBondingCurve": 1058881578.947369,
+  "vSolInBondingCurve": 30.399999999999984,
+  "marketCapSol": 28.709537123330197,
+  "name": "Baby MOBY AI",
+  "symbol": "MOBY",
+  "uri": "https://ipfs.io/ipfs/QmZzQw7PieuwGWFFEf8b5m7fxLxV8oMoQJG8EKUeioPVri",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:39:11.086Z",
+  "detail": {
+    "name": "Baby MOBY AI",
+    "symbol": "MOBY",
+    "description": "The Baby MOBY AI",
+    "image": "https://ipfs.io/ipfs/QmSAa25nfzxxrt6C5j4NFRtYJgSrcW4d24va3Cdw8RH81t",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/AiMobiSol",
+    "website": "https://linktr.ee/mobyaisol"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793551309,
+    "version": 0
+  },
+  "$loki": 77,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The Moby AI (MOBY) project aims to function as an 'AI copilot for crypto', integrating AI technology into cryptocurrency trading. It has the potential to assist users in navigating the complexities of the market, presenting a unique proposition.\",\"larpEvaluation\":7,\"uniquenessEvaluation\":7,\"ideaEvaluation\":\"While the idea is intriguing and holds merit, concerns arise from the lack of information regarding the team, project features, roadmap, and community engagement, which are vital for assessing its credibility and potential success.\"}",
+  "stats": {
+    "startTime": 1736793551580,
+    "endTime": 1736793567518,
+    "duration": 15.938,
+    "llmUsageStats": {
+      "inputTokens": 5578,
+      "outputTokens": 515,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

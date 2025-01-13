@@ -1,0 +1,58 @@
+{
+  "signature": "4AGVnH6cu8Z1BEjk1YaZHBUmGFt4he18Cc45bWQGFqweZ1pW1Jb8bSZKiYmehYdfQUbRCf7dmmZSbGewYUwkx3sa",
+  "mint": "4mbwH19JWiXVGxiXDGD9WShYGEFWohujZAPq2vdgpump",
+  "traderPublicKey": "7TRAQtLKCV3WyyvCe33fca55rG7bj3aCqkJd9JQg7UcC",
+  "txType": "create",
+  "initialBuy": 27870129.870129,
+  "solAmount": 0.8,
+  "bondingCurveKey": "3Yeff2e1edfYaQ4PHUyACTM6uwkfwz5T3hxf3WKeS8E2",
+  "vTokensInBondingCurve": 1045129870.129871,
+  "vSolInBondingCurve": 30.799999999999972,
+  "marketCapSol": 29.470021745883763,
+  "name": "bellumgalaxy AI",
+  "symbol": "BELLUM",
+  "uri": "https://ipfs.io/ipfs/QmcZGuK1b4Y5g2p39QSr7CwqVec2sPo9qxijvHyUaRpkNx",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:42:02.308Z",
+  "detail": {
+    "name": "bellumgalaxy AI",
+    "symbol": "BELLUM",
+    "description": "A community to bring science and technology to all.",
+    "image": "https://ipfs.io/ipfs/QmcE4b4BTFQpRhrV9kuzNB6ZZNK14aAyHzLTAm8LT12bQR",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/bellumgalaxy",
+    "website": "https://bellumgalaxy.com/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793722974,
+    "version": 0
+  },
+  "$loki": 129,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The Bellum Galaxy project focuses on integrating science and technology to create a collaborative platform that empowers users through transformative experiences and community engagement. It features an interactive ecosystem with a reward system for NFTs, educational content, and user-initiated projects.\",\"larpEvaluation\":6,\"uniquenessEvaluation\":8,\"ideaEvaluation\":\"The concept has merit and is innovative, but it is undermined by the absence of information regarding the team's qualifications and commitment, raising concerns over its execution and potential scam risks.\"}",
+  "stats": {
+    "startTime": 1736793724354,
+    "endTime": 1736793745055,
+    "duration": 20.701,
+    "llmUsageStats": {
+      "inputTokens": 5434,
+      "outputTokens": 490,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

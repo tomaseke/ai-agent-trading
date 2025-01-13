@@ -1,0 +1,58 @@
+{
+  "signature": "2twEoCFD5W26YbNVGavrnERH3B9mbq1peRF5JhGFFoFBcwYsNUjQa6V2N4cEdPSBDtALpp8LjvN2ZitJkyTLz95k",
+  "mint": "Hj4QSPDexJFU1bix25B3ZEzsp45eRinHzZeysB7kpump",
+  "traderPublicKey": "GR27HnkdnAX3fptMFwfzpnQv8t6cSDg3Cn73GbmT6a33",
+  "txType": "create",
+  "initialBuy": 153285714.285714,
+  "solAmount": 5,
+  "bondingCurveKey": "2kSCR2Nwdbf9cSwBcYa33rUykJpdD1LCCXpm5CkauEyf",
+  "vTokensInBondingCurve": 919714285.714286,
+  "vSolInBondingCurve": 34.99999999999999,
+  "marketCapSol": 38.05529667598631,
+  "name": "FishAI",
+  "symbol": "FishAI",
+  "uri": "https://ipfs.io/ipfs/QmVXezgbtUKSUTFpVgs7XjCumYkca4TkGHCqPWAoSjwUGE",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:38:53.376Z",
+  "detail": {
+    "name": "FishAI",
+    "symbol": "FishAI",
+    "description": "Transforming Financial Markets with AI-Precision. ",
+    "image": "https://ipfs.io/ipfs/QmVFJrt9u53JhY6Efa6Ha11PUo9uLiQmL7VapYTFstvRkZ",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/FishAI_xyz",
+    "website": "https://www.fishai.xyz/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793534036,
+    "version": 0
+  },
+  "$loki": 70,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The Tradefish project focuses on centralizing digital asset management across multiple wallets and exchanges, enhancing user convenience and usability. It has a potential user adoption appeal but lacks details about the team and specific innovative features, affecting credibility. The merit of the idea is rated at 5, indicating some skepticism, while its uniqueness is rated at 7, reflecting a moderate level of distinctiveness.\",\"larpEvaluation\":5,\"uniquenessEvaluation\":7,\"ideaEvaluation\":\"While Tradefish shows promise due to its usability focus, the lack of transparency about its team and innovative aspects raises concerns regarding its authenticity.\"}",
+  "stats": {
+    "startTime": 1736793534344,
+    "endTime": 1736793551342,
+    "duration": 16.998,
+    "llmUsageStats": {
+      "inputTokens": 6493,
+      "outputTokens": 631,
+      "callsCount": 7,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 7,
+    "costDetails": {
+      "costInputTokens": 0.001,
+      "costOutputTokens": 0.0004,
+      "totalCost": 0.0014
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

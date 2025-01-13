@@ -1,0 +1,58 @@
+{
+  "signature": "35sSsLegAHwX3d1BMEbXDx4LtTzJ5j3vuJyJjwhzahFNwjdbWVvMNfsaw9KeqCyMWuw2WUs53Y7KBRC7K7F8p6B6",
+  "mint": "pqsDyGiRUWGUvvbo1WCfifgZU3SuFSmzGTGdQAxpump",
+  "traderPublicKey": "GqaiWj8Gxjgu6xcPtZu2J6SaLkgamh6euVNGXxjAm4ZK",
+  "txType": "create",
+  "initialBuy": 51095238.095238,
+  "solAmount": 1.5,
+  "bondingCurveKey": "Fz2ZjNitC6aics6if1y9R6T9Q3JezLyY9PEQzz2ecwnq",
+  "vTokensInBondingCurve": 1021904761.904762,
+  "vSolInBondingCurve": 31.499999999999996,
+  "marketCapSol": 30.82479030754892,
+  "name": "Lineza AI",
+  "symbol": "LINEZA",
+  "uri": "https://ipfs.io/ipfs/QmdmPFzAMmAwSRDxzWE9UYjtk6XqKVBjJN92pvJ8X4UoFA",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:31:31.292Z",
+  "detail": {
+    "name": "Lineza AI",
+    "symbol": "LINEZA",
+    "description": "Train AI with K-lines, unlock smart trading insights.",
+    "image": "https://ipfs.io/ipfs/QmWpQDTRGGjqKgbFsrSEkHJkHq242LcDagcFqYV8n7jVPm",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/lineza_ai",
+    "website": "https://linezaai.xyz"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793091713,
+    "version": 0
+  },
+  "$loki": 28,
+  "status": "FINISHED",
+  "result": "7",
+  "stats": {
+    "startTime": 1736793092009,
+    "endTime": 1736793106927,
+    "duration": 14.918,
+    "llmUsageStats": {
+      "inputTokens": 6481,
+      "outputTokens": 449,
+      "callsCount": 7,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 7,
+    "costDetails": {
+      "costInputTokens": 0.001,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0012
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

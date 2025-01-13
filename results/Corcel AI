@@ -1,0 +1,58 @@
+{
+  "signature": "5da3HFgnDF3b5Uc2UCWzh7QpWQxRdyYj6NvvhHWZc1rgbHnc1RLHrAJPnvheTokpko8RxFd1LAS1b395rxZyNqUb",
+  "mint": "4LGTUxJeHEKJTkJ2C82RHrnMJggdn9oMZNLKhzG9pump",
+  "traderPublicKey": "AKyPyTLQ1QzAjA8PECstMs12Ph7HiCozd9tnERwEsV7b",
+  "txType": "create",
+  "initialBuy": 225894736.842105,
+  "solAmount": 8,
+  "bondingCurveKey": "CHV4x9L3nCzGRSusgS5KzNaTPQQQJBEP6TLiFaujZS7",
+  "vTokensInBondingCurve": 847105263.157895,
+  "vSolInBondingCurve": 37.99999999999999,
+  "marketCapSol": 44.85865175520346,
+  "name": "Corcel AI",
+  "symbol": "CORCEL",
+  "uri": "https://ipfs.io/ipfs/QmU88Zwdm5xsGbQC1wkgrXYLNxGP8ri9aFwu4SREVF9TVa",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:57.371Z",
+  "detail": {
+    "name": "Corcel AI",
+    "symbol": "CORCEL",
+    "description": "Build with the power of Bittensor. \r\nUnleash the innovative potential of decentralised incentivised infrastructure.",
+    "image": "https://ipfs.io/ipfs/QmdVX9F661MUfZNNGuWqU9ozEprg3sbGSnW1kmGxJBXZbk",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/Corcel_X",
+    "website": "https://corcel.io/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793717651,
+    "version": 0
+  },
+  "$loki": 123,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The analysis indicates that the crypto project Corcel offers a compelling use case by merging decentralized infrastructure with AI application development, showcasing its potential for success within the evolving tech landscape. However, the idea's merit is rated low at 2, suggesting a level of skepticism regarding its authenticity or viability.\",\"larpEvaluation\":2,\"uniquenessEvaluation\":8,\"ideaEvaluation\":\"The integration of AI and decentralized technologies is unique and innovative, though the overall merit of the idea raises concerns about its legitimacy.\"}",
+  "stats": {
+    "startTime": 1736793718229,
+    "endTime": 1736793734668,
+    "duration": 16.439,
+    "llmUsageStats": {
+      "inputTokens": 5358,
+      "outputTokens": 457,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

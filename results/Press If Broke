@@ -1,0 +1,58 @@
+{
+  "signature": "3Hp25zrapCSJL8tVMg8MvuU79985cJpCQvhHjcLRVBX4PhVNHUQME3552d7fRiP8xXQtFc7rbMvFBJ5E6o4XPx5m",
+  "mint": "28XjGL4r2BrYdLjyTCtNxVKoLBVxN4KvJchH8NeNpump",
+  "traderPublicKey": "9yAjvqVu9rYTgRApcWPaTcvjX71ijW2snnbaMzH6kt1e",
+  "txType": "create",
+  "initialBuy": 67062499.999999,
+  "solAmount": 2,
+  "bondingCurveKey": "FnLfss6QPZ1SyViHX4VJgWvas9u3pQBE6prvCBCcfAF8",
+  "vTokensInBondingCurve": 1005937500.000001,
+  "vSolInBondingCurve": 31.999999999999968,
+  "marketCapSol": 31.811121466293816,
+  "name": "Press If Broke",
+  "symbol": "BROKE",
+  "uri": "https://ipfs.io/ipfs/QmcNc69GdmFKPEdypRLwu6sbPsRz1zV2eKvFCA2K2WXR8j",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:24:24.471Z",
+  "detail": {
+    "name": "Press If Broke",
+    "symbol": "BROKE",
+    "description": "only press if you are broke!",
+    "image": "https://ipfs.io/ipfs/Qmc5jsB2sJp8q4hxnPQYEXJPXRkNRJ1GDixefQe5cA6Wbi",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/pressifbroke",
+    "website": "https://pressifbroke.xyz/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736792664763,
+    "version": 0
+  },
+  "$loki": 3,
+  "status": "FINISHED",
+  "result": "From 1 to 10, how likely the project is a scam: 10",
+  "stats": {
+    "startTime": 1736792665425,
+    "endTime": 1736792688370,
+    "duration": 22.945,
+    "llmUsageStats": {
+      "inputTokens": 13814,
+      "outputTokens": 654,
+      "callsCount": 13,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 13,
+    "costDetails": {
+      "costInputTokens": 0.0021,
+      "costOutputTokens": 0.0004,
+      "totalCost": 0.0025
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

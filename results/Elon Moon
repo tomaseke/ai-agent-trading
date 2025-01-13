@@ -1,0 +1,58 @@
+{
+  "signature": "nepFs8gFY7ghbdcLAoobQWVKeNxhqE38acFkss7SBtx3K5aU75PoR4zjXnGH4sGEaQ4duNB2WFGuFdTqLMfz3Pz",
+  "mint": "Fc1Ji15KbWTUWFUTN2RpwxoSJ4Ktp55oUzwTnnVvpump",
+  "traderPublicKey": "A5QsmCKJsmL7Ra3KM2w2H4gq7euFAyHuusTGPmUfD5GP",
+  "txType": "create",
+  "initialBuy": 82538461.538461,
+  "solAmount": 2.5,
+  "bondingCurveKey": "8jpjYZyev9bGgy7p3pP3deVuQrh7AWpS8r1gH75mmS4J",
+  "vTokensInBondingCurve": 990461538.461539,
+  "vSolInBondingCurve": 32.49999999999998,
+  "marketCapSol": 32.81298539919226,
+  "name": "Elon Moon",
+  "symbol": "EMOON",
+  "uri": "https://ipfs.io/ipfs/QmbAGyiTsYNb8NjKjhNu5pp3gHukyBskem4SV8izYfgDNH",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:39.810Z",
+  "detail": {
+    "name": "Elon Moon",
+    "symbol": "EMOON",
+    "description": "Elon Musk officially flying to the moon. Hop in to fly with him!",
+    "image": "https://ipfs.io/ipfs/Qmc6N5oWdEn19npGY99kPGW8jWz8KvkmHT5SVMKUnxB3Q4",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/elonmusk",
+    "website": "https://investinmusk.com/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793700405,
+    "version": 0
+  },
+  "$loki": 112,
+  "status": "FINISHED",
+  "result": "The analysis shows that the idea associated with the crypto project has limited merit due to insufficient information. The findings indicate a total lack of specific details regarding the project's concept, team, and unique features, which raises concerns about its credibility. The uniqueness evaluation scored low, while the potential for being a scam is predominantly high, given the lack of verifiable information. Overall, this project appears to lack a solid foundation for genuine use, making it appear more like a scam than a legitimate venture.",
+  "stats": {
+    "startTime": 1736793700872,
+    "endTime": 1736793719672,
+    "duration": 18.8,
+    "llmUsageStats": {
+      "inputTokens": 6166,
+      "outputTokens": 436,
+      "callsCount": 7,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 7,
+    "costDetails": {
+      "costInputTokens": 0.0009,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0012
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

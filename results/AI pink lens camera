@@ -1,0 +1,58 @@
+{
+  "signature": "mQJazj92zUjHQe4R54kf8yK6LnSU59Pz6mRDa2RUr1dgxWVKQ6jco2aUt74MZmiPjT75byA3iZY3HUNbNL8NP5i",
+  "mint": "3RGKEpuYa75BgHbm7NxHSdTgxiYq8kxVyg8VDG51AK1o",
+  "traderPublicKey": "5E34H9mZTe44npT97fgP9QxkGnv2fN6xGLmD7ige3UDX",
+  "txType": "create",
+  "initialBuy": 63909090.90909,
+  "solAmount": 1.9,
+  "bondingCurveKey": "6Nj4Ga8ZWPKqSpvMRzskCUf4DuH26PL1a1pQ4hFNLKR9",
+  "vTokensInBondingCurve": 1009090909.09091,
+  "vSolInBondingCurve": 31.899999999999974,
+  "marketCapSol": 31.61261261261256,
+  "name": "AI pink lens camera",
+  "symbol": "$AIPLC",
+  "uri": "https://ipfs.io/ipfs/QmSCnUZ87gu4mVf9h2oyfVqiL8jDDy99LnsqNqcAwG8QGb",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:01.437Z",
+  "detail": {
+    "name": "AI pink lens camera",
+    "symbol": "$AIPLC",
+    "description": "the AI ​​pink lens camera has high resolution",
+    "image": "https://ipfs.io/ipfs/QmX1ZyPGwAYwedKnfJ7F3wE478gKkft5ZMtrtLCoQM8E2x",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/aipinklenscamer",
+    "website": "https://aipinklenscamera.fun/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793661935,
+    "version": 0
+  },
+  "$loki": 91,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The AI Pink Lens Camera ($AIPLC) project integrates AI technology in photography, leveraging the Solana network with a total supply of 1 billion tokens and a tax rate of 0/0. Its unique features may attract tech-savvy users and photographers. However, the absence of team details and a clear roadmap raises concerns about the project's execution and future potential, with a merit/use case rating of 6 and uniqueness evaluation scored at 7.\",\"larpEvaluation\":6,\"uniquenessEvaluation\":7,\"ideaEvaluation\":\"The project presents an innovative idea but lacks essential information for a complete evaluation of its feasibility and potential success.\"}",
+  "stats": {
+    "startTime": 1736793664772,
+    "endTime": 1736793679368,
+    "duration": 14.596,
+    "llmUsageStats": {
+      "inputTokens": 5354,
+      "outputTokens": 495,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

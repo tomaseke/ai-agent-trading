@@ -1,0 +1,58 @@
+{
+  "signature": "5VnFaxYNPUeQTdyCXvEkvHDgreYYs522zqhnwYCLLRamB5QVMhJwX8KNCAriTqWuPfCqh3wZEVKvTfTFjwvw7S7t",
+  "mint": "CBJhCdESo6mUnQZEDtJH3JwfY4NvJkAJPNhdK9wcpump",
+  "traderPublicKey": "GQn5Dn1XTekPi3cFXR5KbyADNDvmQT42v5zZvKjPNBg7",
+  "txType": "create",
+  "initialBuy": 100000000,
+  "solAmount": 3.083247688,
+  "bondingCurveKey": "ADW8kCBzCDWkDn8t1VXCu3T3HkhL3RmGyr4gE2HL1TH1",
+  "vTokensInBondingCurve": 973000000,
+  "vSolInBondingCurve": 33.08324768756423,
+  "marketCapSol": 34.00128230993241,
+  "name": "Nova Agent",
+  "symbol": "NOVA",
+  "uri": "https://ipfs.io/ipfs/QmeAiPtWhDpZGCgBrkpuaME8irAu4SX2zbwbwYc8zspxzV",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:59.113Z",
+  "detail": {
+    "name": "Nova Agent",
+    "symbol": "NOVA",
+    "description": "$NOVA - your meme-news ai reporter.",
+    "image": "https://ipfs.io/ipfs/QmSutcNjuj5SQ4PhSYFc8yQrpVJaGWujbMx1zX3Wevwre1",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/pumpnews_agent",
+    "website": "https://www.pump.news/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793719828,
+    "version": 0
+  },
+  "$loki": 128,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The project PUMP.NEWS leverages real-time social data and analytics specifically for meme coins, offering potentially valuable insights for investors. However, the lack of information regarding the team behind the project raises questions about its credibility and expertise, which are crucial for evaluating the project's merit. While the idea is innovative and fills a niche need, investor confidence may be undermined due to this transparency issue.\",\"larpEvaluation\":6,\"uniquenessEvaluation\":7,\"ideaEvaluation\":\"The concept presents a novel angle for assessing meme coins through social metrics, making it relevant for a specific market in crypto investing, though team credibility remains a concern.\"}",
+  "stats": {
+    "startTime": 1736793727046,
+    "endTime": 1736793742497,
+    "duration": 15.451,
+    "llmUsageStats": {
+      "inputTokens": 5330,
+      "outputTokens": 479,
+      "callsCount": 6,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 6,
+    "costDetails": {
+      "costInputTokens": 0.0008,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0011
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}

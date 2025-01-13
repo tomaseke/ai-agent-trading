@@ -1,0 +1,58 @@
+{
+  "signature": "2KxZkTh5dhZ8HVaTLPrfkLMXVBcea3gMopE9zFiZd9qQckfvwr9Bs3ZPn57v6tARueLGLp2KSD3egCwcBeveGRCT",
+  "mint": "4gMtkGgSPDhGFtERcJe3e217BW9RFXng5PuNC3gLpump",
+  "traderPublicKey": "E93ghhtva7zqtgQ4788GvDzH4i6uV3rdvQsRFMSEYwnK",
+  "txType": "create",
+  "initialBuy": 34612903.225806,
+  "solAmount": 1,
+  "bondingCurveKey": "EYbDHuhZsBSeLf2toSzs98kK29Vh8fj3BwivhKyPg5GS",
+  "vTokensInBondingCurve": 1038387096.774194,
+  "vSolInBondingCurve": 30.999999999999986,
+  "marketCapSol": 29.853991922957412,
+  "name": "Aion Pool",
+  "symbol": "AION",
+  "uri": "https://ipfs.io/ipfs/QmPnXDE3E2pDNDqadSfCxrJEcrj2xByJMvyCCDjJqkqm3m",
+  "pool": "pump",
+  "timestamp": "2025-01-13T18:41:46.886Z",
+  "detail": {
+    "name": "Aion Pool",
+    "symbol": "AION",
+    "description": "We are an Aion exclusive public mining & staking pool who thrive on helping folks get to know what The Open Application Network is all about. #poweredbyaion\r\n",
+    "image": "https://ipfs.io/ipfs/Qmaazkv6oHUuk5sFTyUjEYjSuCXjfDRTbCJYEht3nztDeW",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/aionpool",
+    "website": "https://aionpool.tech/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736793707200,
+    "version": 0
+  },
+  "$loki": 116,
+  "status": "FINISHED",
+  "result": "{\"summary\":\"The project focuses on staking cryptocurrencies and provides mobile apps for user engagement and mining rig management. While it offers valuable functionalities such as wallet management and transaction analytics, the lack of clear goals, tokenomics, and unique value propositions raises concerns about its potential success.\",\"larpEvaluation\":6,\"uniquenessEvaluation\":4,\"ideaEvaluation\":\"The idea has merit, as it offers practical features for users interested in cryptocurrency staking. However, the vague project goals and absence of specific unique attributes may result in challenges within a competitive market.\"}",
+  "stats": {
+    "startTime": 1736793707481,
+    "endTime": 1736793726219,
+    "duration": 18.738,
+    "llmUsageStats": {
+      "inputTokens": 6291,
+      "outputTokens": 496,
+      "callsCount": 7,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 7,
+    "costDetails": {
+      "costInputTokens": 0.0009,
+      "costOutputTokens": 0.0003,
+      "totalCost": 0.0012
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 5,
+    "agentCount": 5
+  }
+}
