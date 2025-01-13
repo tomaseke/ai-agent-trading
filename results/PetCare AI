@@ -1,0 +1,58 @@
+{
+  "signature": "hDXj4DJM5c9EWmnyEd6fEUS8VaXfnoFrefBbZj8i2qhezR6s2wa2hbM8H6qUQDW5Jsx4GcnbzLBBXuZCjy74VnH",
+  "mint": "EbuDrLhsKr3KrBfkjwpGmEbt2QEcQ94KwQPz93ACpump",
+  "traderPublicKey": "CoiaNxfHY55PupjHywgJQmfhix6KZuNzXibWMRWVYeEf",
+  "txType": "create",
+  "initialBuy": 67062499.999999,
+  "solAmount": 2,
+  "bondingCurveKey": "7ZkRYUXnM9tCfonSTdTbyoD7dXjg21aYTUEuAvFeFPUW",
+  "vTokensInBondingCurve": 1005937500.000001,
+  "vSolInBondingCurve": 31.999999999999968,
+  "marketCapSol": 31.811121466293816,
+  "name": "PetCare AI",
+  "symbol": "Care AI",
+  "uri": "https://ipfs.io/ipfs/QmeUtpNjnbQXwHLw8xcBTPhWx2vVLCfT8gYTVWVgjWkz7a",
+  "pool": "pump",
+  "timestamp": "2025-01-13T11:57:58.066Z",
+  "detail": {
+    "name": "PetCare AI",
+    "symbol": "Care AI",
+    "description": "AI for pet health monitoring and smart pet management",
+    "image": "https://ipfs.io/ipfs/QmeUbN8KsRo4YRD6nYRznaYKxqhnbC9i41eAXgyMKQoMkr",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/PetCareAI",
+    "website": "https://petcare.ai"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736769479030,
+    "version": 0
+  },
+  "$loki": 11,
+  "status": "FINISHED",
+  "result": "Given the lack of accessible and relevant information from the website regarding the crypto project, I cannot provide a comprehensive analysis. The website may not have sufficient details about the project's idea, team, uniqueness, or overall potential. Further investigation or alternative sources may be necessary to gather insights on the project.",
+  "stats": {
+    "startTime": 1736769479032,
+    "endTime": 1736769487008,
+    "duration": 7.976,
+    "llmUsageStats": {
+      "inputTokens": 3748,
+      "outputTokens": 264,
+      "callsCount": 4,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 4,
+    "costDetails": {
+      "costInputTokens": 0.0006,
+      "costOutputTokens": 0.0002,
+      "totalCost": 0.0007
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 1,
+    "agentCount": 1
+  }
+}

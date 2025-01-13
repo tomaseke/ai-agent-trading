@@ -1,0 +1,58 @@
+{
+  "signature": "3yADyWnVGUn2mQ7aGkDu3YufcDbctsiWZAZeJd7fKuNuWMUbkRfCDHDeMPvxdSwQnEbNB7ve46YreGFoiSZJgAyt",
+  "mint": "9Q6bCKpPmPkpf5fhSmNTD1PXUBC6gGsv3eX71Evkpump",
+  "traderPublicKey": "CmM6mubEBriBpvVDcgaiNTkkBnEZKN2iBhD1iQNGHcbq",
+  "txType": "create",
+  "initialBuy": 3564784.053156,
+  "solAmount": 0.1,
+  "bondingCurveKey": "4sHWsQ7WnnPN7RAckWQXK6qSH7eKjcY4ZES17XPsnwRD",
+  "vTokensInBondingCurve": 1069435215.946844,
+  "vSolInBondingCurve": 30.099999999999998,
+  "marketCapSol": 28.145697421559486,
+  "name": "TSUMA",
+  "symbol": "AIKO",
+  "uri": "https://ipfs.io/ipfs/QmQd3jLx7h6zTqWQCfhYUa9YhVFZiocPU8VLMmSoKCSkGX",
+  "pool": "pump",
+  "timestamp": "2025-01-13T11:57:35.026Z",
+  "detail": {
+    "name": "TSUMA",
+    "symbol": "AIKO",
+    "description": "TSUMA | First AI VTuber Protocol on SOL\r\nBuilding virtual entertainment infrastructure with AI Vtubers ✨",
+    "image": "https://ipfs.io/ipfs/QmTW8i8MWyekV566wn7undwH5H41b5foKsFgzCCUyvXtGY",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/TsumaSol",
+    "website": "https://tsuma.agency/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736769456079,
+    "version": 0
+  },
+  "$loki": 4,
+  "status": "FINISHED",
+  "result": "Website Analysis and Summary: Project Tsuma aims to revolutionize virtual content creation by integrating AI and blockchain technology. It addresses current challenges such as a lack of decentralized platforms for creators and high entry costs. The team envisions a decentralized ecosystem where creators and viewers can interact seamlessly, promoting creativity and ownership. Tsuma's uniqueness lies in offering AI-driven interactive experiences alongside a blockchain-based ownership system and community-driven governance. This approach enhances monetization opportunities for creators while fostering a secure and engaging environment for users. Overall, Tsuma has strong potential to reshape the virtual entertainment landscape.",
+  "stats": {
+    "startTime": 1736769456082,
+    "endTime": 1736769465617,
+    "duration": 9.535,
+    "llmUsageStats": {
+      "inputTokens": 2706,
+      "outputTokens": 245,
+      "callsCount": 3,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 3,
+    "costDetails": {
+      "costInputTokens": 0.0004,
+      "costOutputTokens": 0.0001,
+      "totalCost": 0.0006
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 1,
+    "agentCount": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "signature": "4oDkjzWRKbaWCzhWhtqdND6ETRvJ4Mj5FmBgBfTK7Bvvb9WPHJ7D4W9Ht8UThznNpYKYxsCUJUVK1hsw8BfVHCZu",
+  "mint": "4RfXWjn2eGhDEXyDNJqX8jQPvko5fNXZcWApQNwdpump",
+  "traderPublicKey": "8DfFaR7cN5NxvRDios7StKNSjzHUSppephUHakZqVdaL",
+  "txType": "create",
+  "initialBuy": 34612903.225806,
+  "solAmount": 1,
+  "bondingCurveKey": "H8mxGsXZbrmkmaGvd1YTiPKF5rXuaw5LgWExbnHTCWyp",
+  "vTokensInBondingCurve": 1038387096.774194,
+  "vSolInBondingCurve": 30.999999999999986,
+  "marketCapSol": 29.853991922957412,
+  "name": "pumpmetAI",
+  "symbol": "PMETAI",
+  "uri": "https://ipfs.io/ipfs/QmfVoMthKc6rBqVbR17JxVtJaJKXmFjtddWWDFv5P5Xh6a",
+  "pool": "pump",
+  "timestamp": "2025-01-13T11:57:32.997Z",
+  "detail": {
+    "name": "pumpmetAI",
+    "symbol": "PMETAI",
+    "description": "",
+    "image": "https://ipfs.io/ipfs/QmPLd3AGaz7zvvQfbE9yfrvFToWVAeemqeVdLA8aLtaN2T",
+    "showName": true,
+    "createdOn": "https://pump.fun",
+    "twitter": "https://x.com/pumpmetAI",
+    "website": "https://www.pumpmetai.fun/"
+  },
+  "isWebsiteLegit": true,
+  "isTwitterLegit": true,
+  "meta": {
+    "revision": 0,
+    "created": 1736769453395,
+    "version": 0
+  },
+  "$loki": 2,
+  "status": "FINISHED",
+  "result": "The website for the crypto project 'pumpmetAI' offers AI-powered predictions for cryptocurrency trends, intending to help users excel in the market. Key features include interactive leaderboards and rug detection tools, which are designed to identify risky investments. Currently, the project is providing early access for interested users. The visually engaging website can be visited at [pumpmetAI](https://pumpmetai.fun). Overall, pumpmetAI aims to serve as a valuable resource for crypto enthusiasts seeking to use AI for improved investment decisions.",
+  "stats": {
+    "startTime": 1736769453413,
+    "endTime": 1736769461744,
+    "duration": 8.331,
+    "llmUsageStats": {
+      "inputTokens": 1766,
+      "outputTokens": 181,
+      "callsCount": 2,
+      "callsErrorCount": 0,
+      "parsingErrors": 0
+    },
+    "iterationCount": 2,
+    "costDetails": {
+      "costInputTokens": 0.0003,
+      "costOutputTokens": 0.0001,
+      "totalCost": 0.0004
+    },
+    "teamName": "Crypto project analysis team",
+    "taskCount": 1,
+    "agentCount": 1
+  }
+}

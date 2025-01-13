@@ -1,0 +1,29 @@
+{
+  "name": "ai-agent-trading",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.24",
+    "@langchain/core": "^0.3.29",
+    "@langchain/openai": "^0.3.17",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "flatted": "^3.3.2",
+    "kaibanjs": "^0.14.0",
+    "langchain": "^0.3.11",
+    "lodash": "^4.17.21",
+    "lokijs": "^1.5.12",
+    "node-cache": "^5.1.2",
+    "winston": "^3.17.0",
+    "ws": "^8.18.0",
+    "zod": "^3.24.1"
+  }
+}
